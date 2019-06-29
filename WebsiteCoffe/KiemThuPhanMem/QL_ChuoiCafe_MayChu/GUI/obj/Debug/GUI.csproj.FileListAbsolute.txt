@@ -1,0 +1,106 @@
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe.config
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.dll
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.dll
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.dll
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmHeThong.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.exe
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_LoaiSanPham.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucNhanVien.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_SanPham.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucThongKe.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucDoThi.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmDangNhap.resources
+F:\CongNgheThongTin\Đồ án cơ sở\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmManHinhChao.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe.config
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.exe
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.dll
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.dll
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.dll
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmDangNhap.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmHeThong.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmManHinhChao.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucDoThi.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucNhanVien.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_LoaiSanPham.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_SanPham.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucThongKe.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe.config
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.exe
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.dll
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.dll
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.dll
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.pdb
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmDangNhap.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmHeThong.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmManHinhChao.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucDoThi.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucNhanVien.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_LoaiSanPham.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_SanPham.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucThongKe.resources
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\CongNgheThongTin\Đồ án cơ sở\DACS_FixUI\DACS-FixUI\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe.config
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.exe
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.pdb
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmDangNhap.resources
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmHeThong.resources
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmManHinhChao.resources
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucNhanVien.resources
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_LoaiSanPham.resources
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_SanPham.resources
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.pdb
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.dll
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.dll
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.dll
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.pdb
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.pdb
+F:\CongNgheThongTin\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.pdb
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe.config
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.exe
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.pdb
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.exe
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\GUI.pdb
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.dll
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.dll
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.dll
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\BUS.pdb
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DAO.pdb
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\bin\Debug\DTO.pdb
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmHeThong.resources
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.frmManHinhChao.resources
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucNhanVien.resources
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_LoaiSanPham.resources
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.ucQuanLy_SanPham.resources
+C:\Users\nguye\Desktop\KiemThuPhanMem\QL_ChuoiCafe_MayChu\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
